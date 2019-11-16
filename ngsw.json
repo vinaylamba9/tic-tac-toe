@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1573912996639,
+  "index": "https://vinaylamba9.github.io/tic-tac-toe/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://vinaylamba9.github.io/tic-tac-toe/favicon.ico",
+        "https://vinaylamba9.github.io/tic-tac-toe/index.html",
+        "https://vinaylamba9.github.io/tic-tac-toe/main-es2015.b02677281ce806e42bc4.js",
+        "https://vinaylamba9.github.io/tic-tac-toe/main-es5.b02677281ce806e42bc4.js",
+        "https://vinaylamba9.github.io/tic-tac-toe/manifest.webmanifest",
+        "https://vinaylamba9.github.io/tic-tac-toe/polyfills-es2015.0ef207fb7b4761464817.js",
+        "https://vinaylamba9.github.io/tic-tac-toe/polyfills-es5.931f63c2feef40f602a6.js",
+        "https://vinaylamba9.github.io/tic-tac-toe/runtime-es2015.e8a2810b3b08d6a1b6aa.js",
+        "https://vinaylamba9.github.io/tic-tac-toe/runtime-es5.e8a2810b3b08d6a1b6aa.js",
+        "https://vinaylamba9.github.io/tic-tac-toe/styles.1140c99bf24968932ec0.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://vinaylamba9.github.io/tic-tac-toe/assets/icons/icon-128x128.png",
+        "https://vinaylamba9.github.io/tic-tac-toe/assets/icons/icon-144x144.png",
+        "https://vinaylamba9.github.io/tic-tac-toe/assets/icons/icon-152x152.png",
+        "https://vinaylamba9.github.io/tic-tac-toe/assets/icons/icon-192x192.png",
+        "https://vinaylamba9.github.io/tic-tac-toe/assets/icons/icon-384x384.png",
+        "https://vinaylamba9.github.io/tic-tac-toe/assets/icons/icon-512x512.png",
+        "https://vinaylamba9.github.io/tic-tac-toe/assets/icons/icon-72x72.png",
+        "https://vinaylamba9.github.io/tic-tac-toe/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://vinaylamba9.github.io/tic-tac-toe/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://vinaylamba9.github.io/tic-tac-toe/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://vinaylamba9.github.io/tic-tac-toe/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://vinaylamba9.github.io/tic-tac-toe/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://vinaylamba9.github.io/tic-tac-toe/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://vinaylamba9.github.io/tic-tac-toe/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://vinaylamba9.github.io/tic-tac-toe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://vinaylamba9.github.io/tic-tac-toe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://vinaylamba9.github.io/tic-tac-toe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://vinaylamba9.github.io/tic-tac-toe/index.html": "eefc1aa80f7584a431e250dc8caf5cfedab0f468",
+    "https://vinaylamba9.github.io/tic-tac-toe/main-es2015.b02677281ce806e42bc4.js": "fc6fccfac8732eeffc1861a622c9e6163c3e61b7",
+    "https://vinaylamba9.github.io/tic-tac-toe/main-es5.b02677281ce806e42bc4.js": "26eccfcd5451e0f9b797d663096f27acfdadfc98",
+    "https://vinaylamba9.github.io/tic-tac-toe/manifest.webmanifest": "3d3d0ca4f9190cac16a625ba76c0f821f19afbce",
+    "https://vinaylamba9.github.io/tic-tac-toe/polyfills-es2015.0ef207fb7b4761464817.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
+    "https://vinaylamba9.github.io/tic-tac-toe/polyfills-es5.931f63c2feef40f602a6.js": "45c51483238468881240579c3fdecd19144cff17",
+    "https://vinaylamba9.github.io/tic-tac-toe/runtime-es2015.e8a2810b3b08d6a1b6aa.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://vinaylamba9.github.io/tic-tac-toe/runtime-es5.e8a2810b3b08d6a1b6aa.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://vinaylamba9.github.io/tic-tac-toe/styles.1140c99bf24968932ec0.css": "47744ebc4dc729e35f8c41bcd05ea40461616ce6"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
